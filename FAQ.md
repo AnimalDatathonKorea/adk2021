@@ -26,5 +26,5 @@
 
 
 ### Q. 참가신청, 참가자격 등 궁금한 점이 있어요! 어디로 문의드리면 되나요?
-- Github [issue 페이지](https://github.com/AnimalDatathonKorea/adk2021/issues)
+- Github [issue 페이지](https://github.com/AnimalDatathonKorea/adk2021/issues) <br>
 ※ 개인사항이 포함된 문의는 adk-help@aidkr.com 로 메일주세요.

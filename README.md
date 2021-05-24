@@ -68,7 +68,7 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 행�
       <strong>참가신청 접수</strong><br>
     </td>
     <td style="text-align:center"> 2021. 5. 26.(수) ~ 6. 18.(금)</td>
-    <td align="center"> 온라인 <br> (26일 신청링크 공개) </td>
+    <td align="center"> 온라인 접수<br> (https://forms.gle/BHViLkmxjLvXaSvk9) </td>
   </tr>
     <tr height="65px">
     <td align="center">
@@ -105,8 +105,9 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 행�
 - 참가신청: 2021년 5월 26일(수) ~ 6월 18일(금)
 - 참가대상: 국내외 AI 모델 개발에 관심있는 누구나 (팀 단위 신청, 1팀 당 4명 이하)
 - 참가규모: 본선 20개팀 (팀별 신청, 팀별 최소 2인 이상)
-- 참가신청: (26일 신청링크 공개)
-- 문의: Github issue 페이지 (https://github.com/AnimalDatathonKorea/adk2021/issues) <br>
+- 참가신청: (https://forms.gle/BHViLkmxjLvXaSvk9)
+- 문의: [Github issue 페이지](https://github.com/AnimalDatathonKorea/adk2021/issues) <br>
+※ 개인사항이 포함된 문의는 adk-help@aidkr.com 로 메일주세요. <br>
 ※ 예선 서면심사 평가 결과는 개별 통보 예정 <br><br>
 
 

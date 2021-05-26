@@ -69,7 +69,7 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 행�
     <td align="center">
       <strong>참가신청 접수</strong><br>
     </td>
-    <td style="text-align:center"> 2021. 5. 26.(수) ~ 6. 18.(금)</td>
+    <td style="text-align:center"> 2021. 5. 27.(목) ~ 6. 18.(금)</td>
     <td align="center"> 온라인 접수<br> (https://forms.gle/BHViLkmxjLvXaSvk9) <br> 필수서류 양식(추후 공개) </td>
   </tr>
     <tr height="65px">
@@ -104,7 +104,7 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 행�
 ※ NSML Leader Board의 score는 2021년 7월 18일(일) 행사 종료 시점 기준으로 submit이 완료된 상태여야 함 <br><br>
 
 ## 참가신청
-- 참가신청: 2021년 5월 26일(수) ~ 6월 18일(금)
+- 참가신청: 2021년 5월 27일(목) ~ 6월 18일(금)
 - 참가대상: 국내외 AI 모델 개발에 관심있는 누구나 (팀 단위 신청, 1팀 당 4명 이하)
 - 참가규모: 본선 20개팀 (팀별 신청, 팀별 최소 2인 이상)
 - 참가신청: (https://forms.gle/BHViLkmxjLvXaSvk9)

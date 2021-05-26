@@ -1,4 +1,6 @@
-![2021 Animal Datathon Korea_포스터_rbg](https://user-images.githubusercontent.com/81339384/119083885-c839cc80-ba3b-11eb-9241-61bbf87136d8.jpg)
+![(포스터) 2021 ADK_rbg](https://user-images.githubusercontent.com/82010477/119617612-fa349f80-be3c-11eb-8464-f3a6632d36a7.jpg)
+
+
 
 
 # Animal Datathon Korea 2021

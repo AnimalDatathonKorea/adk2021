@@ -61,17 +61,17 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 행�
 ## 데이터톤 일정
 <table class="tbl_schedule">
   <tr>
-    <th width="150px">행사내용</th>
-    <th width="350px">일정</th>
-    <th>장소/방식</th>
+    <th width="200px">행사내용</th>
+    <th width="300px">일정</th>
+    <th width="200px">장소/방식</th>
   </tr>
   <tr>
+	  <tr height="65px">
     <td align="center">
       <strong>참가신청 접수</strong><br>
     </td>
-    <td style="text-align:center"> 2021. 5. 26.(수) ~ 6. 18.(금)</td>
-    <td align="center"> 온라인 접수<br> (https://forms.gle/BHViLkmxjLvXaSvk9) <br> 
-      필수서류 4부 제출 (하단 링크 참조)
+    <td align="center"> 2021. 5. 26.(수) ~ 6. 18.(금)</td>
+    <td align="center"> 온라인 접수<br> (https://forms.gle/BHViLkmxjLvXaSvk9)<br>
  </td>
 
   </tr>
@@ -79,7 +79,7 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 행�
     <td align="center">
       <strong>서류심사</strong><br>
     </td>
-    <td style="text-align:center">2021. 6. 21.(월) ~ 6. 23.(수)</td>
+    <td align="center"">2021. 6. 21.(월) ~ 6. 23.(수)</td>
         <td align=center> 진출팀 개별 통보
     </td>
    </tr>
@@ -87,12 +87,12 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 행�
     <td align=center>
       <strong>본선</strong><br>
     </td>
-    <td style="text-align:center">2021. 7. 17.(토) 10:00 ~ 7. 18.(일) 10:00</td>
+    <td align="center">2021. 7. 17.(토) ~ 7. 18.(일) </td>
  <td align=center> 온라인
     </td>
    </tr>
 </table>
-※ 데이터톤 참가자에게는 일정 및 진행사항에 대해 개별 안내드립니다.<br><br>
+※ 데이터톤 일정 및 진행 관련 사항 변경 시 개별 안내 예정<br><br>
 
 
 ## 심사기준
@@ -109,19 +109,24 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 행�
 ## 참가신청
 - 참가신청: 2021년 5월 26일(수) ~ 6월 18일(금)
 - 참가대상: 국내외 AI 모델 개발에 관심있는 누구나 (팀 단위 신청, 1팀 당 4명 이하)
-- 참가규모: 본선 20개팀 (팀별 신청, 팀별 최소 2인 이상)
-- 참가신청: (https://forms.gle/BHViLkmxjLvXaSvk9)
-- 필수 제출서류(<b>참가신청서, 참가자 개인정보 수집 및 이용 동의서, 참가자 서약서, 법정대리인 동의서</b>) <br>
-              작성 후 참가신청에 함께 첨부 <b><[필수 제출서류 다운로드](https://github.com/AnimalDatathonKorea/adk2021/files/6552003/ADK.2021.zip)></b>
+- 참가규모: 본선 20개팀
+- 참가신청: <b>[Animal Datathon Korea 2021 참가신청](https://forms.gle/BHViLkmxjLvXaSvk9)</b> <br>
+- 제출서류: <b>[참가신청 서류 다운로드](https://github.com/AnimalDatathonKorea/adk2021/files/6552003/ADK.2021.zip)</b> <br>
+              1) 참가신청서(필수) <br>
+              2) 참가자 개인정보 수집 및 이용 동의서(필수) <br>
+              3) 참가자 서약서(필수) <br>
+              4) 법정대리인 동의서(만 14세 이하 참가자) <br>
+※ 개인정보 수집 및 이용 동의서 및 서약서는 참가자 전원 자필서명 후 PDF파일로 제출 <br>
+							
 
-- 문의: Github [issue 페이지](https://github.com/AnimalDatathonKorea/adk2021/issues) <br>
-※ 개인사항이 포함된 문의는 adk-help@aidkr.com 로 메일주세요. <br>
+- 문의: [Github issue 페이지](https://github.com/AnimalDatathonKorea/adk2021/issues) <br>
+※ 개인정보가 포함된 사항은 이메일(adk-help@aidkr.com)로 별도문의 <br>
 ※ 예선 서면심사 평가 결과는 개별 통보 예정 <br><br>
 
 
 ## 추진
-- 주최: 한국축산데이터, 한국축산테크협회
-- 주관: 한국축산데이터, 한국축산테크협회
+- 주최: 한국축산데이터(주) 농업회사법인, (사)한국축산테크협회
+- 주관: 한국축산데이터(주) 농업회사법인, (사)한국축산테크협회
 - 후원: 농림축산식품부, 농업기술실용화재단 <br><br>
               
 
@@ -130,6 +135,5 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 행�
               <b> <[FAQ 바로가기](https://github.com/AnimalDatathonKorea/adk2021/blob/main/FAQ.md)> <br><br></b>
 
 ## 문의
-<strong>[issue 페이지](https://github.com/AnimalDatathonKorea/adk2021/issues)</strong>에 문의글을 남기시면 담당자가 답변드립니다. <br>
-개인사항이 포함된 문의는 adk-help@aidkr.com 로 메일주세요. 
-
+- <strong>[issue 페이지](https://github.com/AnimalDatathonKorea/adk2021/issues)</strong>에 문의글을 남기시면 담당자가 답변드립니다. <br>
+- 개인정보가 포함된 문의사항은 이메일(adk-help@aidkr.com)로 보내주시면 됩니다. 

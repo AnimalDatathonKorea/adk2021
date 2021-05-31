@@ -5,7 +5,7 @@
 
 # Animal Datathon Korea 2021
 <b> 가축 이미지 인공지능에 도전해보세요! </b><p>
-Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 행동 영상 데이터를 활용하여 실제 구현 가능한 인공지능 학습 모델을 기획하고 개발하는 데이터톤 대회입니다. <p>
+Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이미지 데이터를 활용하여 실제 구현 가능한 인공지능 학습 모델을 기획하고 개발하는 데이터톤 대회입니다. <p>
 ‘Animal Datathon Korea 2021’은 NAVER CLOUD PLATFORM의 고성능 클라우드 인프라 상에서 운영되며 네이버의 클라우드 머신러닝 플랫폼인 NSML(Naver Smart Machine Learning)과 함께 합니다. <strong>[NAVER CLOUD PLATFORM](https://www.ncloud.com/)</strong>과 <strong>[NSML](https://ai.nsml.navercorp.com/intro)</strong>은 개발자들이 "모델 개발과 알고리즘 최적화"에만 집중할 수 있도록 필요한 제반 환경을 제공합니다. AI 전문가들과 함께 가축 이미지 인공지능에 도전하실 분들을 기다리고 있습니다.
 <br><br>    
   

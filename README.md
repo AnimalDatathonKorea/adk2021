@@ -96,7 +96,7 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이�
 
 
 ## 심사기준
-- NSML Leader Board score 기준으로 평가 진행 <br>
+- Leader Board score 기준으로 평가 진행 <br>
 - 심사는 정확도와 수행시간에 따른 각 기준에 따름 <br>
 - 성능 평가시 자동으로 두 기준 모두에 대해 참여되며 성능평가가 진행됨 <p>
   - <b>(기준 1)</b> 키포인트 정확도(PCK, Percentage of Correct Keypoints) 기준 <br>
@@ -104,7 +104,7 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이�
   - <b>(기준 2)</b> 수행시간(sec) 기준 <br>
             일정 키포인트 정확도(PCK 85%) 이상 중 1장당 가장 짧은 수행시간
 
-※ NSML Leader Board의 score는 2021년 7월 18일(일) 행사 종료 시점 기준으로 submit이 완료된 상태여야 함 <br><br>
+※ Leader Board의 score는 2021년 7월 18일(일) 행사 종료 시점 기준으로 submit이 완료된 상태여야 함 <br><br>
 
 ## 참가신청
 - 참가신청: 2021년 5월 26일(수) ~ 6월 18일(금)

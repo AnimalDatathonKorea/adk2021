@@ -1,4 +1,5 @@
-![(포스터) 2021 ADK_rbg](https://user-images.githubusercontent.com/82010477/119617612-fa349f80-be3c-11eb-8464-f3a6632d36a7.jpg)
+<img alt="ADK 2021 (Animal Datathon Korea 2021) 포스터" src="https://user-images.githubusercontent.com/82010477/121276663-04a96b80-c90a-11eb-8e8a-4597be4a7d97.png">
+
 
 
 

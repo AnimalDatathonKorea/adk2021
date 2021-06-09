@@ -30,7 +30,7 @@
 1.머리위- 2.목(뒷목)- 3.윗등- 4.오른쪽 어깨- 5.오른쪽무릎- 6.오른쪽발- 7.왼쪽어깨- 8.왼쪽무릎- 9.왼쪽발- 10.뒷등(등허리)- <br>
 11.뒤오른쪽윗허벅지- 12.뒷오른쪽무릎발- 13.뒷오른쪽발- 14.뒷왼쪽윗허벅지- 15.뒷왼쪽무릎- 16.뒷왼쪽발- 17.꼬리시작점 <br>
 <p align="center">
-![image](https://user-images.githubusercontent.com/77255651/121333345-af924780-c953-11eb-95f6-7b325cf2d8ec.png)
+  <img alt="cow keypoint image" src="https://user-images.githubusercontent.com/77255651/121333810-16176580-c954-11eb-9abb-d148050b6613.png">
 </p>
 <br><br>
   

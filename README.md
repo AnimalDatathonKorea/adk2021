@@ -1,5 +1,4 @@
-<img alt="ADK 2021 (Animal Datathon Korea 2021) 포스터" src="https://user-images.githubusercontent.com/82010477/121276663-04a96b80-c90a-11eb-8e8a-4597be4a7d97.png">
-
+![Animal Datathon Korea 2021](https://user-images.githubusercontent.com/82010477/121617254-81ba1980-ca9f-11eb-8075-0c1706d56b54.jpg)
 
 
 
@@ -71,7 +70,7 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이�
     <td align="center">
       <strong>참가신청 접수</strong><br>
     </td>
-    <td align="center"> 2021. 5. 26.(수) ~ 6. 18.(금)</td>
+    <td align="center"> 2021. 5. 26.(수) ~ 7. 16.(금)</td>
     <td align="center"> 온라인 접수<br> (https://forms.gle/BHViLkmxjLvXaSvk9)<br>
  </td>
 
@@ -80,7 +79,7 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이�
     <td align="center">
       <strong>서류심사</strong><br>
     </td>
-    <td align="center"">2021. 6. 21.(월) ~ 6. 23.(수)</td>
+    <td align="center"">2021. 7. 19.(월) ~ 7. 21.(수)</td>
         <td align=center> 진출팀 개별 통보
     </td>
    </tr>
@@ -88,7 +87,7 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이�
     <td align=center>
       <strong>본선</strong><br>
     </td>
-    <td align="center">2021. 7. 17.(토) ~ 7. 18.(일) </td>
+    <td align="center">2021. 8. 7.(토) ~ 8. 8.(일) </td>
  <td align=center> 온라인
     </td>
    </tr>
@@ -105,10 +104,10 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이�
   - <b>(기준 2)</b> 수행시간(sec) 기준 <br>
             일정 키포인트 정확도(PCK 85%) 이상 중 1장당 가장 짧은 수행시간
 
-※ Leader Board의 score는 2021년 7월 18일(일) 행사 종료 시점 기준으로 submit이 완료된 상태여야 함 <br><br>
+※ Leader Board의 score는 2021년 8월 8일(일) 행사 종료 시점 기준으로 submit이 완료된 상태여야 함 <br><br>
 
 ## 참가신청
-- 참가신청: 2021년 5월 26일(수) ~ 6월 18일(금)
+- 참가신청: 2021년 5월 26일(수) ~ 7월 16일(금)
 - 참가대상: 국내외 AI 모델 개발에 관심있는 누구나 (팀 단위 신청, 1팀 당 4명 이하)
 - 참가규모: 본선 20개팀
 - 참가신청: <b>[Animal Datathon Korea 2021 참가신청](https://forms.gle/BHViLkmxjLvXaSvk9)</b> <br>

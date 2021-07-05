@@ -1,6 +1,4 @@
-![Animal Datathon Korea 2021](https://user-images.githubusercontent.com/82010477/121617254-81ba1980-ca9f-11eb-8075-0c1706d56b54.jpg)
-
-
+![ADK 2021 포스터 ('21 07 01)](https://user-images.githubusercontent.com/82010477/124412006-8ca75780-dd88-11eb-9ce5-8fae7e86d23c.jpg)
 
 
 # Animal Datathon Korea 2021
@@ -16,7 +14,8 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이�
   ※ Pre-trained model 사용 가능 <br><br>
    
 ## 시상 및 혜택
-- 총상금: 15,000,000원<br>
+- ### 총상금: 15,000,000원<br>
+- #### 가장 높은 키포인트 탐지 정확도 1등: 농림축산식품부장관상 수여 <br>
 <table class="tbl_prize">
   <tr>
     <th width="380px">구분</th>
@@ -52,7 +51,6 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이�
     <td align="center"> <b> 2,000,000 원 </b> </td>
  </tr>
 </table>
-  
   
 ※ 각 기준별 득점순으로 수상자 선정 <br>
 ※ 평가는 Public평가와 Private평가로 구분되어 진행되며, 동점자 발생 시에는 먼저 제출한 순서대로 순위를 결정함<br>

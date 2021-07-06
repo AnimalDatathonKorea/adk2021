@@ -18,8 +18,8 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이�
 - #### 가장 높은 키포인트 탐지 정확도 1등: 농림축산식품부장관상 수여 <br>
 <table class="tbl_prize">
   <tr>
-    <th width="380px">구분</th>
-    <th width="150px">시상</th>
+    <th width="330px">구분</th>
+    <th width="200px">시상</th>
     <th width="230px">상금</th>
   </tr>
   <tr>
@@ -27,11 +27,11 @@ Animal Datathon Korea 2021은 한국축산데이터에서 구축한 가축 이�
       <strong>가장 높은 키포인트 탐지 정확도</strong><br>
       - 1장당 수행시간 1초 이하
     </td>
-    <td align="center"> 1등 </td>
+    <td align="center"> 1등<br>(농림축산식품부장관상) </td>
     <td align="center"> <b> 5,000,000 원 </b> </td>
   </tr>
     <tr>
-    <td align="center"> 2등</td>
+    <td align="center"> 2등 </td>
     <td align="center"> <strong> 2,000,000 원 </strong> </td>
    </tr>
     <tr>
